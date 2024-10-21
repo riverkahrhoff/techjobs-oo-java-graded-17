@@ -64,8 +64,7 @@ public class JobTest {
                 "Employer: ACME" + System.lineSeparator() +
                 "Location: Desert" + System.lineSeparator() +
                 "Position Type: Quality control" + System.lineSeparator() +
-                "Core Competency: Persistence" + System.lineSeparator() +
-                System.lineSeparator());
+                "Core Competency: Persistence" + System.lineSeparator());
 
     }
 
